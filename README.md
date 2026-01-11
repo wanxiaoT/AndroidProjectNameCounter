@@ -1,0 +1,2 @@
+# AndroidProjectNameCounter
+获取你的安卓项目有多少字，支持智能分类代码文件进行统计
